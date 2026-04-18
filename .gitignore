@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+data/
+
+logs/*
+!logs/
+!logs/transactions.csv
